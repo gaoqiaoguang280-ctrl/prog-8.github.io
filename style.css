@@ -1,0 +1,101 @@
+@charset "UTF-8";
+
+body{
+	font-family:Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	height: auto;
+	margin: auto;
+	background: white;
+
+}
+header{
+	border: 1.6px solid black;
+}
+.head1{
+	background-color: black;
+	color: white;
+	display: flex;
+	justify-content: center;
+}
+.head2{
+	margin-left: 200px;
+}
+main{
+	margin-left: 200px;
+}
+.foot1{
+	margin-left: 200px;
+}
+.foot2{
+	background-color: black;
+	color: white;
+	display: flex;
+	justify-content: center;
+}
+footer{
+	background-color: powderblue;
+}
+h1{
+	font-size: 50px;
+	margin-top: 30px;
+	margin-left: 70px;
+}
+.name{
+	font-size: 40px;
+	margin-top: 20px;
+	margin-left: 13px;
+}
+.fot{
+	padding-top: 25px;
+	width: 505px;
+	margin-left: 50px;
+}
+.souta{
+	height: 300px;
+	width: 300px;
+}
+.cam{
+	height: 300px;
+}
+table{
+	font-size: 20px;
+}
+.soutastatus{
+	margin-left: 650px;
+	margin-top: -315px;
+}
+.view{
+	padding-top: 15px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+td{
+	padding: 15px;
+}
+.memo{
+	font-size: 25px;
+	margin-left: 13px;
+}
+.title{
+	font-size: 40px;
+	margin-bottom: 10px;
+	text-decoration: underline;
+}
+.logo{
+	font-size: 35px;
+}
+.headlogo{
+	height: 150px;
+}
+.footlogo{
+	height: 120px;
+}
+.nav{
+	font-size: 20px;
+	margin-left: 650px;
+	margin-top: -30px;
+	padding-bottom: 20px;
+}
+a{
+	margin-right: 30px;
+}
